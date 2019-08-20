@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  snake.cpp
+c:\users\yutao\desktop\repos\snake\snake\snake.cpp(274): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\yutao\desktop\repos\snake\snake\snake.cpp(320): warning C4101: “i”: 未引用的局部变量
+  snake.vcxproj -> C:\Users\yutao\Desktop\repos\snake\Debug\snake.exe
