@@ -1,0 +1,10 @@
+Name£ºZBDC   HP:1.27   Phisic:0.10    Name£ºJBG   HP:1.45   Magic:30.00	
+Name£ºUWQH   HP:1.19   Phisic:0.17    Name£ºRCE   HP:1.35   Magic:4.00	
+Name£ºLNDW   HP:1.06   Phisic:0.44    Name£ºSSA   HP:1.79   Magic:31.00	
+Name£ºDOJW   HP:1.02   Phisic:0.17    Name£ºGFT   HP:1.80   Magic:70.00	
+Name£ºDHSQ   HP:1.12   Phisic:0.91    Name£ºDUI   HP:1.57   Magic:56.00	
+Name£ºQDXD   HP:1.57   Phisic:0.91    Name£ºSAX   HP:1.34   Magic:79.00	
+Name£ºMYMR   HP:1.17   Phisic:0.76    Name£ºYZR   HP:1.34   Magic:54.00	
+Name£ºOLSJ   HP:1.63   Phisic:0.34    Name£ºLNL   HP:1.51   Magic:73.00	
+Name£ºNUKM   HP:-0.21   Phisic:0.50    Name£ºIQU   HP:-0.21   Magic:84.00	
+Name£ºHYCV   HP:1.31   Phisic:0.60    Name£ºTHD   HP:0.90   Magic:88.00	

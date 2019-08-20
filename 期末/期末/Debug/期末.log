@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  期末.cpp
+c:\users\yutao\desktop\repos\期末\期末\期末.cpp(61): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\yutao\desktop\repos\期末\期末\期末.cpp(70): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\yutao\desktop\repos\期末\期末\期末.cpp(251): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\yutao\desktop\repos\期末\期末\期末.cpp(264): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yutao\desktop\repos\期末\期末\期末.cpp(266): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yutao\desktop\repos\期末\期末\期末.cpp(286): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yutao\desktop\repos\期末\期末\期末.cpp(288): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yutao\desktop\repos\期末\期末\期末.cpp(290): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  期末.vcxproj -> C:\Users\yutao\Desktop\repos\期末\Debug\期末.exe
